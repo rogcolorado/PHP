@@ -46,7 +46,7 @@ $mbReplace = $mbString."Fui, iria novamente, e foi épico!";
  <h3>event</h3>
  <p>desc</p>
  </article>
- ROCK;;
+ ROCK;
 
  $articleData = [
      "event" => "Rock in Rio",
