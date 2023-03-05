@@ -5,3 +5,4 @@ class User
     public $lastName;
     public $email
 }
+?>
